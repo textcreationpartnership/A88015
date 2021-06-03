@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the state of Holland to the Right Honorable, the Lord Major [sic] of the City of London, concerning a most horrid conspiracy of treason, against the king and kingdom; and a discovery of the new counterfeit English gold ... The proceedings of the Prince of VVales in Holland, and the declaration and proposals of his councell at war ... Also, a bloudy fight in Yorkshire ... and Duke Hamiltons letter to Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88015</idno><idno type="EEBO-CITATION">50805846</idno>
+  <idno type="VID">162252</idno>
+  <idno type="EEBO-PROQUEST">2240887770</idno>
+  
+            <idno type="STC">Wing L1611A</idno>
+            <idno type="STC">Thomason E464_31</idno>
+            <idno type="OCLC">50805846</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162252)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the state of Holland to the Right Honorable, the Lord Major [sic] of the City of London, concerning a most horrid conspiracy of treason, against the king and kingdom; and a discovery of the new counterfeit English gold ... The proceedings of the Prince of VVales in Holland, and the declaration and proposals of his councell at war ... Also, a bloudy fight in Yorkshire ... and Duke Hamiltons letter to Scotland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.VV.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Counterfeits and counterfeiting --  Great Britain --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Netherlands --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162252:1"/>
+            <p>A LETTER Sent from the STATES of HOLLAND TO The Right Honorable, the Lord Major of the City OF LONDON, Concerning A most horrid Conspiracy of Treason, against the <hi>King</hi> and <hi>Kingdom;</hi> and a Discovery of the new counterfeit <hi>English Gold,</hi> the manner of their coining the same, and the full worth and value of each piece.</p>
+            <p>The proceedings of the Prince of <hi>VVales</hi> in <hi>Holland,</hi> and the <hi>Declaration</hi> and <hi>Proposals</hi> of his Councell of War, which way to dispose of the Navy, and to send them either to <hi>France, Scotland,</hi> or <hi>Ireland.</hi>
+            </p>
+            <p>Also, a bloudy fight in <hi>Yorkshire,</hi> divers killed upon the place, 200 taken prisoners, and Duke <hi>Ha<g ref="char:EOLhyphen"/>miltons</hi> Letter to <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. VV.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162252:2"/>
+            <pb n="1" facs="tcp:162252:2"/>
+            <head>A MESSAGE Sent from the States of HOLLAND TO The Right Honorable the Lord Major of the City of <hi>London,</hi> concerning a most horrid Plot of Treason against the <hi>King,</hi> and <hi>Kingdom</hi> of <hi>England.</hi>
+            </head>
+            <head>And a Letter concerning the Prince of <hi>Wales.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>HEre hath lately happened some disputations between his Highnesse the Prince of <hi>VVales,</hi> and the Nobility, in relation how to dispose
+<pb n="2" facs="tcp:162252:3"/>of the Navy, and the Grandees have had some con<g ref="char:EOLhyphen"/>sultation thereupon, in order thereunto for disposing of the said Fleet, not thinking themselves or ships in so good a posture, or usefull a way where they are, because, they conceive, if they should plund<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>London</hi> Marchants, they should incur the displeasure of the <hi>Metropolis,</hi> and for the future receive no suc<g ref="char:EOLhyphen"/>cour or relief from thence, but receive gratification by a power of opposition.</p>
+            <p>Besides, the Lord high Admirall at Sea may be up<g ref="char:EOLhyphen"/>on the back of them before they be aware, the wind serving now to carry them from the Downs.</p>
+            <p>This businesse took up some time in debate thereof and at last came to these results.</p>
+            <p>Divers of the Councell, as Prince <hi>Maurice,</hi> and o<g ref="char:EOLhyphen"/>thers, declared at the Councell table, That they con<g ref="char:EOLhyphen"/>ceiv'd it most necessary and requisite, to weigh an<g ref="char:EOLhyphen"/>chor, and steer towards the kingdom of <hi>France,</hi> deli<g ref="char:EOLhyphen"/>vering severall reasons, wherein it tended most for the safety of the Navy, and the advancement of their Soveraigns Cause, if the Treaty took not effect.</p>
+            <p>The Lord <hi>VVilloughby,</hi> and others, moved for the North.</p>
+            <p>But Capt. <hi>Batten</hi> presseth much for <hi>Ireland,</hi> and its conceived his Proposition will be assented to; which indeed, is the place of greatest danger for <hi>England,</hi> and the most eminent place to advance the Cause of the Royall party.</p>
+            <p>The Lord <hi>Inchiquin</hi> being master of the field with a very considerable power, and (in all probability) will be ready to comply and joyn with the Prince; for it is generally reported here, that the Navy is in<g ref="char:EOLhyphen"/>vited
+<pb n="3" facs="tcp:162252:3"/>thither by some great Ones, and that they have a design to joyn with them against <hi>England;</hi> Their chiefest aym were first at the United Provinces, to levy forces, being promised great matters; but fin<g ref="char:EOLhyphen"/>ding such an unwillingnesse amongst the Netherlan<g ref="char:EOLhyphen"/>ders to ingage against <hi>England,</hi> they have changed their resolution, and within few days will sayle from <hi>Goree.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Hague</hi>
+                  <date>18. Sept. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Message from the States of <hi>Holland,</hi> to the Lord Major of <hi>London</hi>
+            </head>
+            <p>
+               <hi>THE</hi> States of the United Provinces having re<g ref="char:EOLhyphen"/>ceived severall complaints of the lightnesse of the English Gold, and the corruptnesse thereof, used all means possible to find out the same, and after a di<g ref="char:EOLhyphen"/>ligent and private search, discovered the same; wher<g ref="char:EOLhyphen"/>upon they forthwith resolved to send amessage to the Lord Major of <hi>London,</hi> which were to this effect, <hi>viz. That they had already found in</hi> Holland in <hi>Eng<g ref="char:EOLhyphen"/>lish Gold ten thousand pounds sterling, and that the value of each piece did not amount to above</hi> 3 s. 1 d. <hi>yet the Ring pure Gol.</hi>
+            </p>
+            <p>What will be found in <hi>England,</hi> time will shew, this the Lord Major's care finds out, and divers are apprehended; if the Net take not lesser fish, and let go the great ones, its well. This treason (in so high a na<g ref="char:EOLhyphen"/>ture against <hi>King</hi> and <hi>Kingdom</hi>) deserves condigne punishment, according to Law.</p>
+            <p>Letters from the North say, that col. <hi>Bethel</hi> with his horse and foot hath stormed Scarbrough town, killed 28. and took 200 prisoners, with the losse of 7 men.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162252:4"/>
+            <head>Bloudy Newes from Westmerland, declaring the procee<g ref="char:EOLhyphen"/>dings of the Royall party in the City of Carlisle, and their sallying out into the Country.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>On Friday last they sallied out of the City with a considerable party of Horse and Dragoons, marched some few miles up into the Country, fell to their old trade of plundering, and had gathered great store of cattell in a heard together; who even in the nicke of time as they were driving them away, a party of Major Gen. <hi>Lanberts</hi> Horse, came in to the Countries assi<g ref="char:EOLhyphen"/>stance, fell upon the Scots and English Cavalry, res<g ref="char:EOLhyphen"/>cued the cattell, and put divers of the enemy to the sword, killing above 30 upon the place and took neer upon as many prisoners, with the losse of eleven men, 5 slain, and 6 wounded.</p>
+            <p>The rest of their Body retreated, and the night ap<g ref="char:EOLhyphen"/>proached, which much eclipsed the splendor of our Victory, and our horses being tired, and the wayes dif<g ref="char:EOLhyphen"/>ficult, could not maintain the pursuit no further, so that they are now marching up to the head-quarters of Lieu. Gen. <hi>Crumwell,</hi> their Major Generall being likewise marching towards the Borders of Scotland with 3000 horse, as also col. <hi>Whites</hi> and col. <hi>Hackers</hi> going after him with all speed from the siege of Pon<g ref="char:EOLhyphen"/>tefract.</p>
+            <p>The Lieul. Gen. is likewise marching towards the Borders, and hath sent the Bishoprick horse comman<g ref="char:EOLhyphen"/>ded by <hi>Major Sanderson,</hi> and another of his own Re<g ref="char:EOLhyphen"/>giments by the way of <hi>Anwick,</hi> to dissipate the Eng<g ref="char:EOLhyphen"/>lish
+<pb n="5" facs="tcp:162252:4"/>Enemy about <hi>Barwick,</hi> commanded by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Tildsley,</hi> and to fight them, or force them to a re<g ref="char:EOLhyphen"/>treat; and we hear that they have lately fallen upon some of their out-quarters five miles on this side <hi>Ohil<g ref="char:EOLhyphen"/>lingham,</hi> killed some, and took divers prisoners, and have allarm'd the rest, who (we hear) are using all means possible to escape their mercy, and desire to move Westward, but it is believed, col. <hi>Lamberts</hi> For<g ref="char:EOLhyphen"/>ces will interpose between them and <hi>Carlisle,</hi> and fru<g ref="char:EOLhyphen"/>strate their design of joyning with the Lord <hi>Byron</hi> in <hi>VVales.</hi>
+            </p>
+            <p>
+               <hi>Monro</hi> is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retreated into Scotland with all the Scots both Horse and Foot, the Lord <hi>Lanerick</hi> is joyned with him with the additionall Forces, consisting of a<g ref="char:EOLhyphen"/>bout 3000. who upon their march towards <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> to the committee of Estates, received intelli<g ref="char:EOLhyphen"/>gence, that the said committee were all forced from thence, the castle furprized by old Gen. <hi>Leven,</hi> and that the <hi>Marq. of Argyle</hi> with a great Army were en<g ref="char:EOLhyphen"/>tred the city; whereupon they changed their motion, and is now marching towards the West of Scotland; but Lieut. Gen. <hi>David Lesley</hi> having notice thereof ad<g ref="char:EOLhyphen"/>vanced with a considerable party of horse, fell upon the Lord <hi>Lanericks</hi> Briggade, and dispersed most of them.</p>
+            <p>Lieu. Gen. <hi>Crumwell</hi> is resolved to send summons to Scotland for surrender of the English Garrisons to the obedience of the Parliament of England, and to have a mutuall correspondency between both Na<g ref="char:EOLhyphen"/>tions, which is the earnest prayers of</p>
+            <closer>
+               <dateline>
+                  <hi>Richmond</hi>
+                  <date>18. <hi>Sept.</hi> 1648.</date>
+               </dateline>
+               <signed>Your most oblieged friend, <hi>R. SMITH.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:162252:5"/>
+            <head>Duke <hi>Hamiltons</hi> Letter.</head>
+            <p>
+               <hi>BRother,</hi> It hath pleased the Lord to shew me fa<g ref="char:EOLhyphen"/>vour in this sad condition I am in; first, by teach<g ref="char:EOLhyphen"/>ing me with humility to his will. Secondly, by mo<g ref="char:EOLhyphen"/>ving the hearts of those to whom I am a prisoner, to use me with great civility, as this Bearer can shew you, for which I render thanks to my Creator; and desire you if it be in your power, you may acknow<g ref="char:EOLhyphen"/>ledge the same: in perticular to my Lord <hi>Grey</hi> and Mr. <hi>Peters,</hi> by whose meanes I now have liberty to send unto you, to the end I may be provided of some money for my subsistance, during the time of my imprisonment, or till it shall please God otherwise to dispose of me I have no more to say, but that you will look to what hath befaln my self, and the ar<g ref="char:EOLhyphen"/>my under my conduct, as a work of God, to whom my prayers are, that there may be no more effusion of bloud, and that you may be instrumentall in that is the earnest desire of</p>
+            <closer>
+               <signed>Your affectionate Brother, HAMILTON.</signed>
+               <dateline>
+                  <hi>Ashby-de-la-zouch</hi>
+                  <date>12. Sept. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Earl of <hi>Lanerick.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
